@@ -15,7 +15,7 @@ I'm a full-stack developer based in **Casablanca, Morocco**. I specialize in the
 ---
 
 ### 🌟 **Featured Project**  
-### [ESL Online Teacher Platform](https://mohamedaminetajaoui.com)  
+### [ESL Online Teacher Platform](https://eslteacherdemo.online/)  
 A complete solution for teachers and students:  
 - **Landing Page**: Informative landing page with session purchasing integrated with **Calendly**.  
 - **Admin Dashboard**: View stats of student contacts and manage sessions seamlessly.  
