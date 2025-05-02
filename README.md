@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Mohamed Amine Tajaoui  
 
-## 🚀 Full-Stack Developer Crafting Scalable Web Applications  
-I'm a full-stack developer based in **Casablanca, Morocco**, passionate about building scalable, efficient web applications that solve real-world problems. I specialize in the **MERN stack**, but my expertise extends across modern technologies including **TypeScript**, **Next.js**, **GraphQL**, **Docker**, and more. My mission is to deliver clean, user-friendly, and impactful solutions through thoughtful code and design.  
+## 🚀 Full-Stack JavaScript Developer Building Scalable Web Applications  
+I'm a full-stack JavaScript developer based in **Casablanca, Morocco**, passionate about building scalable, efficient web applications that solve real-world problems. While I have strong roots in the **MERN stack**, my expertise extends across the full JavaScript ecosystem — working with modern technologies like **TypeScript**, **Next.js**, **NestJS**, **GraphQL**, and more. I focus on creating clean, user-friendly, and impactful solutions that deliver real value.  
 
 ---
 
 ### 🛠️ **Tech Stack & Skills**  
 - **Frontend**: React, Next.js, Tailwind CSS, TypeScript  
-- **Backend**: Node.js, Express.js, NestJS, GraphQL, REST APIs, Socket.IO  
+- **Backend**: Node.js, Express.js, NestJS, REST APIs, GraphQL, WebSockets  
 - **Databases**: MongoDB, PostgreSQL, MySQL, Redis (with Prisma ORM)  
 - **DevOps**: Docker, AWS EC2, CI/CD pipelines  
-- **Tools**: Git, GitHub, Vercel, Prisma, NextAuth  
+- **Tools**: Git, GitHub, Prisma, NextAuth, Vercel  
 
 ---
 
