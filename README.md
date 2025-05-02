@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Amine Tajaoui  
 
 ## 🚀 Full-Stack JavaScript Developer Building Scalable Web Applications  
-I'm a full-stack JavaScript developer based in **Casablanca, Morocco**, passionate about building scalable, efficient web applications that solve real-world problems. While I have strong roots in the **MERN stack**, my expertise extends across the full JavaScript ecosystem — working with modern technologies like **TypeScript**, **Next.js**, **NestJS**, **GraphQL**, and more. I focus on creating clean, user-friendly, and impactful solutions that deliver real value.  
+I'm a full-stack JavaScript developer based in **Casablanca, Morocco**, passionate about building scalable, efficient web applications that solve real-world problems. My expertise extends across the full JavaScript ecosystem — working with modern technologies like **TypeScript**, **Next.js**, **NestJS**, **GraphQL**, and more. I focus on creating clean, user-friendly, and impactful solutions that deliver real value.  
 
 ---
 
@@ -31,7 +31,7 @@ Designed and developed a modern e-commerce platform for specialized fragrance pr
 ### 📫 **Connect with Me**  
 - **Email**: [med.tajaoui@gmail.com](mailto:med.tajaoui@gmail.com)  
 - **Portfolio**: [mohamedaminetajaoui.com](https://mohamedaminetajaoui.com)  
-- **LinkedIn**: [Mohamed Amine Tajaoui](https://www.linkedin.com/in/mohamed-amine-tajaoui-b3a600340/)  
+- **LinkedIn**: [Mohamed Amine Tajaoui](https://www.linkedin.com/in/mohamed-amine-tajaoui)  
 
 ---
 
