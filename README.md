@@ -1,27 +1,30 @@
 # 👋 Hi, I'm Mohamed Amine Tajaoui  
 
-## 🚀 Passionate MERN Stack Developer Building Scalable Apps  
-I'm a full-stack developer based in **Casablanca, Morocco**. I specialize in the **MERN stack** and love building clean, scalable, and user-friendly applications. My mission is to **deliver solutions that simplify technology while creating real-world impact**.  
+## 🚀 Full-Stack Developer Crafting Scalable Web Applications  
+I'm a full-stack developer based in **Casablanca, Morocco**, passionate about building scalable, efficient web applications that solve real-world problems. I specialize in the **MERN stack**, but my expertise extends across modern technologies including **TypeScript**, **Next.js**, **GraphQL**, **Docker**, and more. My mission is to deliver clean, user-friendly, and impactful solutions through thoughtful code and design.  
 
 ---
 
 ### 🛠️ **Tech Stack & Skills**  
-- **Frontend**: React, Next.js, TailwindCSS  
-- **Backend**: Node.js, Express.js, GraphQL, Socket.IO  
-- **Databases**: MongoDB  
-- **DevOps**: Docker, AWS EC2, CI/CD  
-- **Tools**: Git, GitHub  
+- **Frontend**: React, Next.js, Tailwind CSS, TypeScript  
+- **Backend**: Node.js, Express.js, NestJS, GraphQL, REST APIs, Socket.IO  
+- **Databases**: MongoDB, PostgreSQL, MySQL, Redis (with Prisma ORM)  
+- **DevOps**: Docker, AWS EC2, CI/CD pipelines  
+- **Tools**: Git, GitHub, Vercel, Prisma, NextAuth  
 
 ---
 
 ### 🌟 **Featured Project**  
-### [ESL Online Teacher Platform](https://eslteacherdemo.online/)  
-A complete solution for teachers and students:  
-- **Landing Page**: Informative landing page with session purchasing integrated with **Calendly**.  
-- **Admin Dashboard**: View stats of student contacts and manage sessions seamlessly.  
-- **Quiz Management**: Teachers can **create, edit, and share quizzes** with students.  
-
-> Built with **MERN Stack**, Tailwind, and other modern tools.
+### [Twins Fragrance – Modern E-commerce Platform](https://vercel.com/gilgamesh9xs-projects/twins-fragrance-v2)  
+Designed and developed a modern e-commerce platform for specialized fragrance products, showcasing full-stack capabilities using cutting-edge web technologies:  
+- Built with **Next.js 15**, **React 19**, **TypeScript**, and **Tailwind CSS** for a responsive, modern interface  
+- Implemented secure authentication with **NextAuth** and comprehensive user profile management  
+- Full e-commerce flow: product browsing, filtering, cart, and checkout  
+- Integrated multiple payment methods: **Stripe**, **PayPal**, and **Cash on Delivery**  
+- Robust database architecture using **Prisma ORM** and **PostgreSQL**  
+- Developed features for order management, tracking, and delivery status updates  
+- Optimized for performance and mobile-first experience  
+> 🚧 This project is actively being developed and enhanced with new features  
 
 ---
 
@@ -32,15 +35,15 @@ A complete solution for teachers and students:
 
 ---
 
-### 🌱 **What I Do Beyond Code**  
-- 🎬 Love watching **TV series**  
-- 💪 Hit the **gym regularly**  
+### 🌱 **Beyond the Code**  
+- 🎬 Fan of compelling **TV series**  
+- 💪 Dedicated to regular **gym sessions**  
 
 ---
 
 ### 🚀 **Let's Build Something Amazing Together**  
-I’m always open to collaborating on interesting projects and ideas. Feel free to connect with me and say hi!  
+Whether it's a freelance project, collaboration, or open-source contribution — I'm always open to exciting ideas. Feel free to reach out and say hi!  
 
 ---
 
-**Thank you for visiting my profile!** 😊  
+**Thanks for stopping by!** 😊  
