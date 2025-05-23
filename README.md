@@ -15,7 +15,7 @@ I'm a full-stack JavaScript developer based in **Casablanca, Morocco**, passiona
 ---
 
 ### 🌟 **Featured Project**  
-### [Twins Fragrance – Modern E-commerce Platform](https://vercel.com/gilgamesh9xs-projects/twins-fragrance-v2)  
+### [Twins Fragrance – Modern E-commerce Platform](https://twins-fragrance-v2.vercel.app/)  
 Designed and developed a modern e-commerce platform for specialized fragrance products, showcasing full-stack capabilities using cutting-edge web technologies:  
 - Built with **Next.js 15**, **React 19**, **TypeScript**, and **Tailwind CSS** for a responsive, modern interface  
 - Implemented secure authentication with **NextAuth** and comprehensive user profile management  
